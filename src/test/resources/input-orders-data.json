@@ -1,0 +1,290 @@
+[
+  {
+    "id": "413k5",
+    "name": "Pork Chop",
+    "temp": "hot",
+    "freshness": 133
+  },
+  {
+    "id": "yxfeo",
+    "name": "Yoghurt",
+    "temp": "cold",
+    "freshness": 76
+  },
+  {
+    "id": "e5mha",
+    "name": "Spaghetti",
+    "temp": "hot",
+    "freshness": 108
+  },
+  {
+    "id": "q9nn6",
+    "name": "Yesterday's Jam",
+    "temp": "room",
+    "freshness": 168
+  },
+  {
+    "id": "mwkhb",
+    "name": "Chicken Tacos",
+    "temp": "hot",
+    "freshness": 131
+  },
+  {
+    "id": "kyoxc",
+    "name": "Apple",
+    "temp": "room",
+    "freshness": 114
+  },
+  {
+    "id": "prbhs",
+    "name": "Gas Station Sushi",
+    "temp": "room",
+    "freshness": 86
+  },
+  {
+    "id": "teq71",
+    "name": "Vegetarian Pizza",
+    "temp": "hot",
+    "freshness": 126
+  },
+  {
+    "id": "xhwk9",
+    "name": "Sushi",
+    "temp": "cold",
+    "freshness": 91
+  },
+  {
+    "id": "8we6j",
+    "name": "Orange Sherbet",
+    "temp": "cold",
+    "freshness": 128
+  },
+  {
+    "id": "qokod",
+    "name": "Dry Biscuits",
+    "temp": "room",
+    "freshness": 98
+  },
+  {
+    "id": "r3she",
+    "name": "Kale Salad",
+    "temp": "cold",
+    "freshness": 130
+  },
+  {
+    "id": "g5746",
+    "name": "Whole Wheat Bread",
+    "temp": "room",
+    "freshness": 67
+  },
+  {
+    "id": "d8o3t",
+    "name": "Chicken Tacos",
+    "temp": "hot",
+    "freshness": 158
+  },
+  {
+    "id": "xsw8n",
+    "name": "Orange Sherbet",
+    "temp": "cold",
+    "freshness": 168
+  },
+  {
+    "id": "fjhxm",
+    "name": "Pad Thai",
+    "temp": "hot",
+    "freshness": 117
+  },
+  {
+    "id": "6grmr",
+    "name": "Coconut",
+    "temp": "room",
+    "freshness": 174
+  },
+  {
+    "id": "t41rs",
+    "name": "Chocolate Gelato",
+    "temp": "cold",
+    "freshness": 120
+  },
+  {
+    "id": "weore",
+    "name": "Vegetarian Pizza",
+    "temp": "hot",
+    "freshness": 176
+  },
+  {
+    "id": "nbw1i",
+    "name": "Strawberries",
+    "temp": "room",
+    "freshness": 167
+  },
+  {
+    "id": "mf7ps",
+    "name": "Bacon Burger",
+    "temp": "hot",
+    "freshness": 154
+  },
+  {
+    "id": "zzg4s",
+    "name": "Lukewarm Coke",
+    "temp": "room",
+    "freshness": 140
+  },
+  {
+    "id": "hnhx8",
+    "name": "Whole Wheat Bread",
+    "temp": "room",
+    "freshness": 123
+  },
+  {
+    "id": "dxoyb",
+    "name": "Pad See Ew",
+    "temp": "hot",
+    "freshness": 147
+  },
+  {
+    "id": "urgcz",
+    "name": "Chocolate Gelato",
+    "temp": "cold",
+    "freshness": 109
+  },
+  {
+    "id": "j9pwb",
+    "name": "Strawberry Ice Cream",
+    "temp": "cold",
+    "freshness": 63
+  },
+  {
+    "id": "sxmcq",
+    "name": "Pad Thai",
+    "temp": "hot",
+    "freshness": 152
+  },
+  {
+    "id": "c8j44",
+    "name": "Kale Salad",
+    "temp": "cold",
+    "freshness": 93
+  },
+  {
+    "id": "q339t",
+    "name": "Stale Bread",
+    "temp": "room",
+    "freshness": 72
+  },
+  {
+    "id": "py3gm",
+    "name": "Fish Tacos",
+    "temp": "hot",
+    "freshness": 92
+  },
+  {
+    "id": "9as6m",
+    "name": "Raspberries",
+    "temp": "room",
+    "freshness": 148
+  },
+  {
+    "id": "4njk9",
+    "name": "Hamburger",
+    "temp": "hot",
+    "freshness": 160
+  },
+  {
+    "id": "wrsq6",
+    "name": "Beef Tacos",
+    "temp": "hot",
+    "freshness": 151
+  },
+  {
+    "id": "dhjjc",
+    "name": "Yesterday's Jam",
+    "temp": "room",
+    "freshness": 161
+  },
+  {
+    "id": "gjhkc",
+    "name": "Pad Thai",
+    "temp": "hot",
+    "freshness": 99
+  },
+  {
+    "id": "ss3ju",
+    "name": "Kale Salad",
+    "temp": "cold",
+    "freshness": 122
+  },
+  {
+    "id": "hufiy",
+    "name": "Cookie Dough",
+    "temp": "cold",
+    "freshness": 168
+  },
+  {
+    "id": "j6rg7",
+    "name": "Pad Thai",
+    "temp": "hot",
+    "freshness": 159
+  },
+  {
+    "id": "mcsrr",
+    "name": "Bacon Burger",
+    "temp": "hot",
+    "freshness": 140
+  },
+  {
+    "id": "zr9sg",
+    "name": "French Fries",
+    "temp": "hot",
+    "freshness": 168
+  },
+  {
+    "id": "ckg5c",
+    "name": "Fizzed-Out Pepsi",
+    "temp": "room",
+    "freshness": 147
+  },
+  {
+    "id": "koqt4",
+    "name": "Pad Thai",
+    "temp": "hot",
+    "freshness": 97
+  },
+  {
+    "id": "wjstf",
+    "name": "Italian Meatballs",
+    "temp": "hot",
+    "freshness": 66
+  },
+  {
+    "id": "6erf6",
+    "name": "Fish Tacos",
+    "temp": "hot",
+    "freshness": 80
+  },
+  {
+    "id": "y9iqp",
+    "name": "French Fries",
+    "temp": "hot",
+    "freshness": 75
+  },
+  {
+    "id": "gy61k",
+    "name": "Cookie Dough",
+    "temp": "cold",
+    "freshness": 150
+  },
+  {
+    "id": "inddu",
+    "name": "Danish Pastry",
+    "temp": "room",
+    "freshness": 157
+  },
+  {
+    "id": "kacnm",
+    "name": "Chicken Nuggets",
+    "temp": "hot",
+    "freshness": 97
+  }
+]
